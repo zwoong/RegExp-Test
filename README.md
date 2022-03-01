@@ -8,7 +8,7 @@
 - 문자 대체(replace)
 - 문자 추출(extract)
 
-## 태스트 사이트
+## 테스트 사이트
 
 https://regexr.com/
 
